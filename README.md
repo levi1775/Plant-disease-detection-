@@ -20,9 +20,8 @@ This project presents a Deep Learning-based Plant Disease Detection System that 
 ## Web App Preview
 Here’s a preview of the web application where users can upload leaf images to predict diseases:
 
-![Web App Preview](path_to_your_image_here.png)
+![Web App Preview](test_images/preview.png)
 
-*Replace the above path with the actual path to your image file in the repository.*
 
 ## Dataset
 The model is trained on a diverse dataset containing images of healthy and diseased plant leaves. The dataset consists of approximately 68,000 training images and 17,000 testing images, covering 38 different diseases affecting 14 plant species.
